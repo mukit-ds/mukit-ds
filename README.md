@@ -81,11 +81,11 @@ For a comprehensive view of my projects and experiences, please visit my portfol
 
 📫 Connect with Me
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/abdul-mukit-1bbb72218)
 
-📧 Email
+[Email](https://ab.mukit.ds@gmail.com)
 
-💬 WhatsApp
+[WhatsApp][(https://wa.me/8801746393598)
 
 
 
