@@ -2,7 +2,7 @@
 
 🎓 **Data Scientist | Machine Learning Enthusiast | Gen AI Explorer**
 
-Welcome to my GitHub profile! I hold a Bachelor's degree in Physics and am currently pursuing a Master's in Data Science and Analytics (expected graduation: November 2024). My passion lies in leveraging data-driven solutions to address real-world challenges, with a keen interest in Machine Learning, Deep Learning, and Generative AI.
+Welcome to my GitHub profile! I hold a Bachelor's degree in Physics and am currently pursuing a Master's in Data Science and Analytics (expected graduation: July 2025). My passion lies in leveraging data-driven solutions to address real-world challenges, with a keen interest in Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
@@ -23,17 +23,17 @@ Welcome to my GitHub profile! I hold a Bachelor's degree in Physics and am curre
 
 ### 🎬 Movie Recommendation System
 An interactive application that suggests movies based on content similarity using NLP techniques.
-- [🔗 GitHub Repository](https://github.com/kazirafi17/MovieRecommendedSystem)
+- [🔗 GitHub Repository](https://github.com/mukit-ds/MovieRecommendedSystem)
 - [▶️ Video Demonstration](https://www.linkedin.com/posts/abdulmukitds_machinelearning-datascience-recommendationsystem-activity-7214523660957622272-NpJA/?utm_source=share&utm_medium=member_desktop):contentReference[oaicite:2]{index=2}
 
 ### 📧 Email Spam Classifier
 :contentReference[oaicite:4]{index=4}
-- [🔗 GitHub Repository](https://github.com/your-username/email-spam-classifier)
+- [🔗 GitHub Repository](https://github.com/mukit-ds/EmailSpamClassifier)
 - [🔴 Live Application](https://emailspamclassifier-fx2ax7w2we4gb7qm74iwkb.streamlit.app/):contentReference[oaicite:6]{index=6}
 
 ### 🛒 Sales Prediction Model
 :contentReference[oaicite:8]{index=8}
-- [🔗 GitHub Repository](https://github.com/your-username/sales-prediction-model)
+- [🔗 GitHub Repository](https://github.com/mukit-ds/SalesPrediction)
 - [🔴 Live Application](https://salesprediction-e6mhgr8mrh64v3g6kbx8ki.streamlit.app/):contentReference[oaicite:10]{index=10}
 
 ### 💬 Sentiment Analysis
@@ -41,10 +41,6 @@ An interactive application that suggests movies based on content similarity usin
 - [🔗 GitHub Repository](https://github.com/mukit-ds/SentimentAnalysis)
 - [🔴 Live Application](https://sentimentanalysis-6ne7g5gzk8cxvkb5rduv2u.streamlit.app/):contentReference[oaicite:14]{index=14}
 
-### 📈 Sales Forecasting
-:contentReference[oaicite:16]{index=16}
-- [🔗 GitHub Repository](https://github.com/mukit-ds/SalesPrediction)
-- [🔴 Live Application](https://salesprediction-e6mhgr8mrh64v3g6kbx8ki.streamlit.app/):contentReference[oaicite:18]{index=18}
 
 ### 📊 Dashboard for Lead Team
 :contentReference[oaicite:20]{index=20}
