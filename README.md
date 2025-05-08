@@ -19,9 +19,10 @@ Welcome to my GitHub profile! I hold a Bachelor's degree in Physics and am curre
 
 ---
 
-💼 Experience
-Data Scientist (Remote)
-KodeEnd IT Solutions AB · Since 2024
+## 💼 Experience
+
+**Data Scientist (Remote)**
+**KodeEnd IT Solutions AB · Since 2024**
 
 Conducted end-to-end data analysis simulations for strategic decision-making
 
