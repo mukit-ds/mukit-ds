@@ -21,53 +21,42 @@ Welcome to my GitHub profile! I hold a Bachelor's degree in Physics and am curre
 
 ## 🚀 Projects
 
-🎬 Movie Recommendation System
-A content-based recommendation system that uses NLP techniques to suggest similar movies based on user input.
+### 🎬 Movie Recommendation System
+An interactive application that suggests movies based on content similarity using NLP techniques.
+- [🔗 GitHub Repository](https://github.com/mukit-ds/MovieRecommendedSystem)
+- [▶️ Video Demonstration](https://www.linkedin.com/posts/abdulmukitds_machinelearning-datascience-recommendationsystem-activity-7214523660957622272-NpJA/?utm_source=share&utm_medium=member_desktop):contentReference[oaicite:2]{index=2}
 
-🔗 GitHub Repository
-
-▶️ Video Demonstration
-
-📧 Email Spam Classifier
+### 📧 Email Spam Classifier
 A machine learning model that classifies emails as spam or not spam using text processing and classification techniques.
+- [🔗 GitHub Repository](https://github.com/mukit-ds/EmailSpamClassifier)
+- [🔴 Live Application](https://emailspamclassifier-fx2ax7w2we4gb7qm74iwkb.streamlit.app/):contentReference[oaicite:6]{index=6}
 
-🔗 GitHub Repository
-
-🔴 Live Application
-
-🛒 Sales Prediction Model
+### 🛒 Sales Prediction Model
 A regression-based model that predicts future sales for retail items using feature engineering and machine learning algorithms.
+- [🔗 GitHub Repository](https://github.com/mukit-ds/SalesPrediction)
+- [🔴 Live Application](https://salesprediction-e6mhgr8mrh64v3g6kbx8ki.streamlit.app/):contentReference[oaicite:10]{index=10}
 
-🔗 GitHub Repository
-
-🔴 Live Application
-
-💬 Sentiment Analysis
+### 💬 Sentiment Analysis
 A deep learning-based application that analyzes the sentiment of user text inputs, identifying positive, negative, or neutral tones.
+- [🔗 GitHub Repository](https://github.com/mukit-ds/SentimentAnalysis)
+- [🔴 Live Application](https://sentimentanalysis-6ne7g5gzk8cxvkb5rduv2u.streamlit.app/):contentReference[oaicite:14]{index=14}
 
-🔗 GitHub Repository
 
-🔴 Live Application
-
-📊 Dashboard for Lead Team
+### 📊 Dashboard for Lead Team
 An interactive dashboard designed to visualize key metrics and performance indicators for lead tracking and decision-making.
+- [🔴 Live Application](https://dashboard-rgscul3qstrwewdpyufmpm.streamlit.app/):contentReference[oaicite:22]{index=22}
 
-🔴 Live Application
-
-🐶🐱 Image Classifier
+### 🐶🐱 Image Classifier
 A convolutional neural network (CNN) model that classifies images as either dog or cat using transfer learning with VGG16.
+- [🔗 GitHub Repository](https://github.com/mukit-ds/DogVsCatClassifier):contentReference[oaicite:26]{index=26}
 
-🔗 GitHub Repository
-
-👥 Customer Segmentation
+### 👥 Customer Segmentation
 A clustering-based model that segments customers into groups based on purchasing behavior to enable targeted marketing.
+- [🔗 GitHub Repository](https://github.com/mukit-ds/CustomerSegmentation):contentReference[oaicite:30]{index=30}
 
-🔗 GitHub Repository
-
-🔄 Customer Churn Prediction
+### 🔄 Customer Churn Prediction
 A classification model that predicts whether a customer is likely to churn, helping businesses take proactive retention measures.
-
-🔗 GitHub Repository
+- [🔗 GitHub Repository](https://github.com/mukit-ds/CustomerCurnPrediction):contentReference[oaicite:34]{index=34}
 
 
 ---
