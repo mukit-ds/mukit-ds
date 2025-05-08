@@ -30,6 +30,14 @@ Led the Data Analysis Simulation - British Airways project to identify customer 
 
 Applied Python, Pandas, and data visualization tools (e.g., Plotly, Seaborn) to deliver actionable insights
 
+
+**Data Analysis Simulation - British Airways**
+
+Hands-on experience in web scraping for company insights.
+Predicted customer buying behavior using machine learning.
+Certificate Link: Forage Certificate (https://www.linkedin.com/in/abdulmukitds/overlay/1726812921137/single-media-viewer/?profileId=ACoAADb9SZ8BcHG_Qgnl4Xp5oUJqk4nNqh_u3Ww)
+Verification Code: APWeX3xHmM5ecLDzA
+
 ---
 
 
