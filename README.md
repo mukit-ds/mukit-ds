@@ -2,7 +2,10 @@
 
 🎓 **Data Scientist | Machine Learning Enthusiast | Gen AI Explorer**
 
-Welcome to my GitHub profile! I hold a Bachelor's degree in Physics and am currently pursuing a Master's in Data Science and Analytics (expected graduation: July 2025). My passion lies in leveraging data-driven solutions to address real-world challenges, with a keen interest in Machine Learning, Deep Learning, and Generative AI.
+**Welcome!**
+I am a Data Scientist with a Bachelor's degree in Physics and currently pursuing a Master's in Data Science and Analytics (anticipated graduation: July 2025). With a strong foundation in scientific problem-solving and data analysis, I am passionate about applying data-driven solutions to complex, real-world challenges. My expertise spans Machine Learning, Deep Learning, and Generative AI. At present, I am actively exploring Generative AI to develop innovative solutions and contribute to the rapidly evolving field of AI-driven creativity and automation.
+
+
 
 ---
 
