@@ -27,7 +27,7 @@ KodeEnd IT Solutions AB · Since 2024
 - Conducted end-to-end data analysis simulations for strategic decision-making  
 - Led the *Data Analysis Simulation - British Airways* project to identify customer behavior trends and improve service optimization  
 - Applied Python, Pandas, and data visualization tools (e.g., Plotly, Seaborn) to deliver actionable insights
-- 
+  
 <br>
 
 **Data Analysis Simulation - British Airways**  
