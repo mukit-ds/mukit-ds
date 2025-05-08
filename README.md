@@ -21,42 +21,54 @@ Welcome to my GitHub profile! I hold a Bachelor's degree in Physics and am curre
 
 ## 🚀 Projects
 
-### 🎬 Movie Recommendation System
-An interactive application that suggests movies based on content similarity using NLP techniques.
-- [🔗 GitHub Repository](https://github.com/mukit-ds/MovieRecommendedSystem)
-- [▶️ Video Demonstration](https://www.linkedin.com/posts/abdulmukitds_machinelearning-datascience-recommendationsystem-activity-7214523660957622272-NpJA/?utm_source=share&utm_medium=member_desktop):contentReference[oaicite:2]{index=2}
+🎬 Movie Recommendation System
+A content-based recommendation system that uses NLP techniques to suggest similar movies based on user input.
 
-### 📧 Email Spam Classifier
-:contentReference[oaicite:4]{index=4}
-- [🔗 GitHub Repository](https://github.com/mukit-ds/EmailSpamClassifier)
-- [🔴 Live Application](https://emailspamclassifier-fx2ax7w2we4gb7qm74iwkb.streamlit.app/):contentReference[oaicite:6]{index=6}
+🔗 GitHub Repository
 
-### 🛒 Sales Prediction Model
-:contentReference[oaicite:8]{index=8}
-- [🔗 GitHub Repository](https://github.com/mukit-ds/SalesPrediction)
-- [🔴 Live Application](https://salesprediction-e6mhgr8mrh64v3g6kbx8ki.streamlit.app/):contentReference[oaicite:10]{index=10}
+▶️ Video Demonstration
 
-### 💬 Sentiment Analysis
-:contentReference[oaicite:12]{index=12}
-- [🔗 GitHub Repository](https://github.com/mukit-ds/SentimentAnalysis)
-- [🔴 Live Application](https://sentimentanalysis-6ne7g5gzk8cxvkb5rduv2u.streamlit.app/):contentReference[oaicite:14]{index=14}
+📧 Email Spam Classifier
+A machine learning model that classifies emails as spam or not spam using text processing and classification techniques.
 
+🔗 GitHub Repository
 
-### 📊 Dashboard for Lead Team
-:contentReference[oaicite:20]{index=20}
-- [🔴 Live Application](https://dashboard-rgscul3qstrwewdpyufmpm.streamlit.app/):contentReference[oaicite:22]{index=22}
+🔴 Live Application
 
-### 🐶🐱 Image Classifier
-:contentReference[oaicite:24]{index=24}
-- [🔗 GitHub Repository](https://github.com/mukit-ds/DogVsCatClassifier):contentReference[oaicite:26]{index=26}
+🛒 Sales Prediction Model
+A regression-based model that predicts future sales for retail items using feature engineering and machine learning algorithms.
 
-### 👥 Customer Segmentation
-:contentReference[oaicite:28]{index=28}
-- [🔗 GitHub Repository](https://github.com/mukit-ds/CustomerSegmentation):contentReference[oaicite:30]{index=30}
+🔗 GitHub Repository
 
-### 🔄 Customer Churn Prediction
-:contentReference[oaicite:32]{index=32}
-- [🔗 GitHub Repository](https://github.com/mukit-ds/CustomerCurnPrediction):contentReference[oaicite:34]{index=34}
+🔴 Live Application
+
+💬 Sentiment Analysis
+A deep learning-based application that analyzes the sentiment of user text inputs, identifying positive, negative, or neutral tones.
+
+🔗 GitHub Repository
+
+🔴 Live Application
+
+📊 Dashboard for Lead Team
+An interactive dashboard designed to visualize key metrics and performance indicators for lead tracking and decision-making.
+
+🔴 Live Application
+
+🐶🐱 Image Classifier
+A convolutional neural network (CNN) model that classifies images as either dog or cat using transfer learning with VGG16.
+
+🔗 GitHub Repository
+
+👥 Customer Segmentation
+A clustering-based model that segments customers into groups based on purchasing behavior to enable targeted marketing.
+
+🔗 GitHub Repository
+
+🔄 Customer Churn Prediction
+A classification model that predicts whether a customer is likely to churn, helping businesses take proactive retention measures.
+
+🔗 GitHub Repository
+
 
 ---
 
@@ -67,10 +79,15 @@ For a comprehensive view of my projects and experiences, please visit my portfol
 
 ---
 
-## 📫 Connect with Me
+📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abdul-mukit-1bbb72218)
-- 📧 Email: Ab.mukit.ds@gmail.com
+LinkedIn
+
+📧 Email
+
+💬 WhatsApp
+
+
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration opportunities!
 
