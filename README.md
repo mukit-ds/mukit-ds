@@ -1,50 +1,81 @@
-# 👋 Hi there, I'm Abdul Mukit!
+# 👋 Hello, I'm Abdul Mukit
 
-Welcome to my GitHub profile! I'm a data science enthusiast with a background in Physics and currently pursuing a Master's in Data Science and Analytics (expected graduation: November 2024). I'm passionate about building intelligent systems that solve real-world problems.
+🎓 **Data Scientist | Machine Learning Enthusiast | Gen AI Explorer**
 
----
-
-## 💡 About Me
-
-- 🎓 Bachelor’s in Physics | Master’s in Data Science and Analytics
-- 🧠 Strong interest in Machine Learning, Deep Learning, and Computer Vision
-- 👨‍💻 I love building data-driven applications using Python, TensorFlow/Keras, and Streamlit
-- 💼 Actively seeking internship opportunities to grow and contribute to impactful projects
+Welcome to my GitHub profile! I hold a Bachelor's degree in Physics and am currently pursuing a Master's in Data Science and Analytics (expected graduation: November 2024). My passion lies in leveraging data-driven solutions to address real-world challenges, with a keen interest in Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
-## 🔧 Tech Stack
+## 🔍 About Me
 
-- **Languages**: Python, SQL, R
-- **Tools/Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV, Matplotlib, Plotly
-- **Frameworks**: Streamlit, Flask
-- **Data Visualization**: Seaborn, Plotly, Tableau (beginner)
-- **Version Control**: Git & GitHub
-
----
-
-## 📌 Featured Projects
-
-- 🎬 **Movie Recommendation System**  
-  Personalized movie suggestions using content-based filtering and cosine similarity.  
-  [🔗 GitHub Repo](https://github.com/kazirafi17/MovieRecommendedSystem)
-
-- 📧 **Email Spam Classifier**  
-  A Streamlit app that classifies emails as spam or not using NLP and ML techniques.  
-  [🔗 GitHub Repo](https://github.com/your-username/email-spam-classifier)
-
-- 🛒 **Sales Prediction Model**  
-  Predicts item sales using Walmart data with regression models and feature engineering.  
-  [🔗 GitHub Repo](https://github.com/your-username/sales-prediction-model)
+- 📚 **Academic Background**: B.Sc. in Physics; M.Sc. in Data Science & Analytics
+- 🧠 **Research Interests**: Machine Learning, Deep Learning, Computer Vision, Generative AI
+- 🛠️ **Technical Skills**:
+  - **Languages**: Python, SQL, R
+  - **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Lanchain, Streamlit, Flask
+  - **Tools**: Git, Power BI (beginner)
+- 🌱 **Currently Exploring**: Generative AI models and applications
+- 🤝 **Open To**: Collaborations, internships, and research opportunities
 
 ---
 
-## 📫 Let's Connect!
+## 🚀 Projects
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-mukit-1bbb72218)
-- 📬 Email: your-email@example.com
+### 🎬 Movie Recommendation System
+An interactive application that suggests movies based on content similarity using NLP techniques.
+- [🔗 GitHub Repository](https://github.com/kazirafi17/MovieRecommendedSystem)
+- [▶️ Video Demonstration](https://www.linkedin.com/posts/abdulmukitds_machinelearning-datascience-recommendationsystem-activity-7214523660957622272-NpJA/?utm_source=share&utm_medium=member_desktop):contentReference[oaicite:2]{index=2}
 
-Thanks for visiting my GitHub! 😊  
-Feel free to explore my repositories, fork them, or reach out for collaboration!
+### 📧 Email Spam Classifier
+:contentReference[oaicite:4]{index=4}
+- [🔗 GitHub Repository](https://github.com/your-username/email-spam-classifier)
+- [🔴 Live Application](https://emailspamclassifier-fx2ax7w2we4gb7qm74iwkb.streamlit.app/):contentReference[oaicite:6]{index=6}
+
+### 🛒 Sales Prediction Model
+:contentReference[oaicite:8]{index=8}
+- [🔗 GitHub Repository](https://github.com/your-username/sales-prediction-model)
+- [🔴 Live Application](https://salesprediction-e6mhgr8mrh64v3g6kbx8ki.streamlit.app/):contentReference[oaicite:10]{index=10}
+
+### 💬 Sentiment Analysis
+:contentReference[oaicite:12]{index=12}
+- [🔗 GitHub Repository](https://github.com/mukit-ds/SentimentAnalysis)
+- [🔴 Live Application](https://sentimentanalysis-6ne7g5gzk8cxvkb5rduv2u.streamlit.app/):contentReference[oaicite:14]{index=14}
+
+### 📈 Sales Forecasting
+:contentReference[oaicite:16]{index=16}
+- [🔗 GitHub Repository](https://github.com/mukit-ds/SalesPrediction)
+- [🔴 Live Application](https://salesprediction-e6mhgr8mrh64v3g6kbx8ki.streamlit.app/):contentReference[oaicite:18]{index=18}
+
+### 📊 Dashboard for Lead Team
+:contentReference[oaicite:20]{index=20}
+- [🔴 Live Application](https://dashboard-rgscul3qstrwewdpyufmpm.streamlit.app/):contentReference[oaicite:22]{index=22}
+
+### 🐶🐱 Image Classifier
+:contentReference[oaicite:24]{index=24}
+- [🔗 GitHub Repository](https://github.com/mukit-ds/DogVsCatClassifier):contentReference[oaicite:26]{index=26}
+
+### 👥 Customer Segmentation
+:contentReference[oaicite:28]{index=28}
+- [🔗 GitHub Repository](https://github.com/mukit-ds/CustomerSegmentation):contentReference[oaicite:30]{index=30}
+
+### 🔄 Customer Churn Prediction
+:contentReference[oaicite:32]{index=32}
+- [🔗 GitHub Repository](https://github.com/mukit-ds/CustomerCurnPrediction):contentReference[oaicite:34]{index=34}
+
+---
+
+## 🌐 Portfolio
+
+For a comprehensive view of my projects and experiences, please visit my portfolio:
+- [🔗 Innovative Insights by Mukit](https://innovative-insights-by-mukit.my.canva.site/ds)
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/abdul-mukit-1bbb72218)
+- 📧 Email: Ab.mukit.ds@gmail.com
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration opportunities!
 
 ---
