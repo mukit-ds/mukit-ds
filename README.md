@@ -21,21 +21,21 @@ Welcome to my GitHub profile! I hold a Bachelor's degree in Physics and am curre
 
 ## 💼 Experience
 
-- **Data Scientist (Remote)**
-**KodeEnd IT Solutions AB · Since 2024**
+**Data Scientist (Remote)**  
+KodeEnd IT Solutions AB · Since 2024  
 
-Conducted end-to-end data analysis simulations for strategic decision-making
-Led the Data Analysis Simulation - British Airways project to identify customer behavior trends and improve service optimization
-Applied Python, Pandas, and data visualization tools (e.g., Plotly, Seaborn) to deliver actionable insights
+- Conducted end-to-end data analysis simulations for strategic decision-making  
+- Led the *Data Analysis Simulation - British Airways* project to identify customer behavior trends and improve service optimization  
+- Applied Python, Pandas, and data visualization tools (e.g., Plotly, Seaborn) to deliver actionable insights  
 
---
+<br><br> <!-- Creates extra space -->
 
-- **Data Analysis Simulation - British Airways**
+**Data Analysis Simulation - British Airways**  
+- Hands-on experience in web scraping for company insights.  
+- Predicted customer buying behavior using machine learning.  
 
-Hands-on experience in web scraping for company insights.
-Predicted customer buying behavior using machine learning.
-Certificate Link: [Forage Certificate](https://www.linkedin.com/in/abdulmukitds/overlay/1726812921137/single-media-viewer/?profileId=ACoAADb9SZ8BcHG_Qgnl4Xp5oUJqk4nNqh_u3Ww)
-Verification Code: APWeX3xHmM5ecLDzA
+**Certificate Link:** [Forage Certificate](link_here)  
+**Verification Code:** APWeX3xHmM5ecLDzA
 
 ---
 
