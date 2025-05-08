@@ -85,7 +85,7 @@ For a comprehensive view of my projects and experiences, please visit my portfol
 
 [Email](https://ab.mukit.ds@gmail.com)
 
-[WhatsApp][(https://wa.me/8801746393598)
+[WhatsApp](https://wa.me/8801746393598)
 
 
 
