@@ -24,18 +24,26 @@ I am a AI/ML Engineer with a Bachelor's degree in Physics and Master's in Data S
 
 ## 💼 Experience
 
-**Data Scientist (Remote)**  
-KodeEnd IT Solutions AB · Since 2024  
+**AI Engineer (Remote- India)**  
+Aditya Enterprise  . Since 07/25
+- Developer a smart rag based system which can be gradually efferctive by using user's data.
+- Making Bidirectional AI Telephony System.
+  
 
-- Conducted end-to-end data analysis simulations for strategic decision-making  
-- Led the *Data Analysis Simulation - British Airways* project to identify customer behavior trends and improve service optimization  
-- Applied Python, Pandas, and data visualization tools (e.g., Plotly, Seaborn) to deliver actionable insights
+<br>
+
+**AI Engineer (Remote-Malmö, Sweden)**  
+KodeEnd IT Solutions AB · 06/24-06/25 
+-Developed machine learning models for sports outcome prediction
+and object detection tasks.
+
   
 <br>
 
 **Data Analysis Simulation - British Airways**  
-- Hands-on experience in web scraping for company insights.  
-- Predicted customer buying behavior using machine learning.  
+- Conducted end-to-end data analysis simulations for strategic decision-making  
+- Led the *Data Analysis Simulation - British Airways* project to identify customer behavior trends and improve service optimization  
+- Applied Python, Pandas, and data visualization tools (e.g., Plotly, Seaborn) to deliver actionable insights  
 
 **Certificate Link:** [Forage Certificate](https://www.linkedin.com/in/abdulmukitds/overlay/1726812921137/single-media-viewer/?profileId=ACoAADb9SZ8BcHG_Qgnl4Xp5oUJqk4nNqh_u3Ww)
 
