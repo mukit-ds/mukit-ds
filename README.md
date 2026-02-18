@@ -34,7 +34,7 @@ Aditya Enterprise  . Since 07/25
 
 **AI Engineer (Remote-Malmö, Sweden)**  
 KodeEnd IT Solutions AB · 06/24-06/25 
--Developed machine learning models for sports outcome prediction
+- Developed machine learning models for sports outcome prediction
 and object detection tasks.
 
   
