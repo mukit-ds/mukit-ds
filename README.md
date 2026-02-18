@@ -16,7 +16,7 @@ I am a AI/ML Engineer with a Bachelor's degree in Physics and Master's in Data S
 - 🛠️ **Technical Skills**:
   - **Languages**: Python, SQL, R
   - **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Lanchain, Streamlit, Flask
-  - **Tools**: Git, Power BI (beginner)
+  - **Tools**: Git, AWS, Docker
 - 🌱 **Currently Exploring**: Generative AI models and applications
 - 🤝 **Open To**: Collaborations, internships, and research opportunities
 
