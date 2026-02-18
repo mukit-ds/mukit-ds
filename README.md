@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Abdul Mukit
 
-🎓 **Data Scientist | Machine Learning Enthusiast | Gen AI Explorer**
+🎓 **AI Engineer | Machine Learning Enthusiast | Gen AI Explorer**
 
 **Welcome!**
-I am a Data Scientist with a Bachelor's degree in Physics and currently pursuing a Master's in Data Science and Analytics (anticipated graduation: July 2025). With a strong foundation in scientific problem-solving and data analysis, I am passionate about applying data-driven solutions to complex, real-world challenges. My expertise spans Machine Learning, Deep Learning, and Generative AI. At present, I am actively exploring Generative AI to develop innovative solutions and contribute to the rapidly evolving field of AI-driven creativity and automation.
+I am a AI/ML Engineer with a Bachelor's degree in Physics and Master's in Data Science and Analytics. With a strong foundation in scientific problem-solving and data analysis, I am passionate about applying data-driven solutions to complex, real-world challenges. My expertise spans Machine Learning, Deep Learning, and Generative AI. At present, I am actively exploring Generative AI to develop innovative solutions and contribute to the rapidly evolving field of AI-driven creativity and automation.
 
 
 
@@ -12,7 +12,7 @@ I am a Data Scientist with a Bachelor's degree in Physics and currently pursuing
 ## 🔍 About Me
 
 - 📚 **Academic Background**: B.Sc. in Physics; M.Sc. in Data Science & Analytics
-- 🧠 **Research Interests**: Machine Learning, Deep Learning, Computer Vision, Generative AI
+- 🧠 **Research Interests**: AI, Machine Learning, Deep Learning, Computer Vision, Generative AI
 - 🛠️ **Technical Skills**:
   - **Languages**: Python, SQL, R
   - **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Lanchain, Streamlit, Flask
