@@ -7,7 +7,7 @@
 
 ## 🎯 Executive Summary
 
-AI/ML Engineer with strong academic foundation (B.Sc. Physics, M.Sc. Data Science) and hands-on experience building production-grade ML systems. Specialized in Generative AI, RAG systems, and intelligent automation. Proven track record delivering end-to-end solutions from research to deployment, with a focus on solving real-world problems through data-driven engineering.
+Experienced AI/ML Engineer (1.5+ years) with B.Sc. Physics and M.Sc. Data Science. Specialized in Generative AI, RAG systems, and intelligent automation—delivering production-grade ML solutions that transform complex problems into scalable, data-driven business outcomes.
 
 ---
 
@@ -201,7 +201,9 @@ Real-time analytics platform delivering actionable KPI insights with anomaly det
 ## 🔗 Portfolio & Presence
 
 **Portfolio:** [Innovative Insights by Mukit](https://innovative-insights-by-mukit.my.canva.site/ds)
+
 **GitHub:** [Abdul-Mukit](https://github.com/mukit-ds) 
+
 **LinkedIn:** [Abdul Mukit](https://www.linkedin.com/in/abdulmukitds/)
 
 ---
@@ -209,7 +211,9 @@ Real-time analytics platform delivering actionable KPI insights with anomaly det
 ## 📮 Get in Touch
 
 **Email:** [Ab.mukit.ds@gmail.com]  
+
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abdulmukitds/) 
+
 **GitHub:** [Explore my work](https://github.com/mukit-ds)
 
 💡 *Open to collaborations, contract roles, full-time positions, and research partnerships with forward-thinking teams.*
