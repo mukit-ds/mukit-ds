@@ -1,131 +1,103 @@
-👋 Abdul Mukit
-AI Engineer | Generative AI & LLM Specialist | Building Production-Ready Intelligent Systems
-🚀 Professional Summary
+👋 Hi, I'm Abdul Mukit
+AI/ML Engineer | Generative AI | Data Scientist
+M.Sc. in Data Science & Analytics | B.Sc. in Physics
 
-AI Engineer with 1.5+ years of experience designing and deploying real-world AI systems across international remote teams (Sweden, UAE, India). Specialized in Generative AI, RAG architectures, NLP, and intelligent automation systems.
+I'm an AI Engineer with a unique blend of physics-driven problem solving and advanced data science expertise. I specialize in building scalable machine learning systems, deep learning models, and generative AI applications that solve real-world problems. Currently, I'm focused on developing innovative solutions in the Generative AI space and contributing to the future of intelligent automation.
 
-With a foundation in Physics and a Master’s in Data Science & Analytics, I combine scientific problem-solving with modern AI engineering to build scalable, production-ready solutions — from smart RAG pipelines and AI telephony systems to predictive ML models and cloud-deployed applications.
+🔍 About Me
+🎓 Education: M.Sc. in Data Science & Analytics | B.Sc. in Physics
 
-I focus on one thing: building AI systems that actually ship and create business value.
+💡 Core Competencies: Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, RAG Systems
 
-🧠 Core Expertise
+🛠️ Tech Stack:
 
-AI & Machine Learning
+Languages: Python, SQL, R
 
-Generative AI & LLM Applications
+Libraries/Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, LangChain, LlamaIndex, Hugging Face, Pandas, NumPy
 
-Retrieval-Augmented Generation (RAG)
+Tools & Platforms: Git, Docker, AWS (S3, EC2), Streamlit, Flask, FastAPI
 
-NLP & Sentiment Analysis
+🌱 Currently Exploring: Advanced RAG architectures, multimodal AI, and fine-tuning LLMs for domain-specific tasks
 
-Deep Learning (CNN, RNN)
-
-Predictive Modeling & Feature Engineering
-
-Engineering & Deployment
-
-Python, SQL, R
-
-TensorFlow, Scikit-learn, Keras, LangChain
-
-FastAPI, Streamlit, Flask
-
-AWS, Docker, Git
-
-REST APIs & Cloud Deployment
+🤝 Open to: Full-time roles, research collaborations, and consulting opportunities – especially with US-based startups pushing the boundaries of AI
 
 💼 Professional Experience
-AI Engineer (Remote – India)
+AI Engineer
+Aditya Enterprise (Remote – India) | July 2024 – Present
 
-Aditya Enterprise | 07/2025 – Present
+Designing and deploying a smart Retrieval-Augmented Generation (RAG) system that continuously improves using user feedback and domain-specific data.
 
-Developed a scalable RAG-based intelligent system that continuously improves using user interaction data.
+Building a bidirectional AI-powered telephony system integrating real-time speech recognition, NLP, and text-to-speech for automated customer interactions.
 
-Building a bidirectional AI telephony system enabling real-time conversational automation.
+AI Engineer
+KodeEnd IT Solutions AB (Remote – Malmö, Sweden) | June 2024 – June 2025
 
-Designed AI-driven automation solutions to enhance operational efficiency.
+Developed machine learning models for sports outcome prediction and object detection, achieving high accuracy on proprietary datasets.
 
-AI/ML Engineer (Remote – Malmö, Sweden)
+Optimized model inference pipelines, reducing latency by 30% through Docker containerization and model quantization.
 
-KodeEnd IT Solutions AB | 06/2024 – 06/2025
+Data Analysis Simulation – British Airways
+Forage | 2024
 
-Built machine learning models for sports outcome prediction using structured and historical datasets.
+Completed an end-to-end data analysis simulation, uncovering customer behavior trends and delivering actionable insights to improve service optimization.
 
-Developed object detection solutions using deep learning techniques.
+Applied Python, Pandas, and data visualization tools (Plotly, Seaborn) to present findings to stakeholders.
 
-Contributed to full ML lifecycle: preprocessing, modeling, evaluation, and deployment.
+🔗 Certificate | Verification Code: APWeX3xHmM5ecLDzA
 
-Data Analysis Simulation – British Airways (Forage)
-
-Conducted end-to-end customer data analysis to identify behavioral patterns.
-
-Delivered actionable insights to improve operational decision-making.
-
-Applied Python (Pandas), data visualization, and analytical modeling techniques.
-
-🚀 Selected Projects
-🔹 Smart RAG Systems & AI Assistants
-
-Designed intelligent retrieval systems and conversational AI agents capable of handling dynamic user queries with contextual accuracy.
-
+🚀 Featured Projects
 🎬 Movie Recommendation System
-
-Content-based NLP recommendation engine with interactive UI.
-
-GitHub Repository
-
-Video Demonstration
+Content-based filtering using NLP (TF-IDF, cosine similarity) to suggest movies similar to user input.
+🔗 GitHub | ▶️ Demo Video
 
 📧 Email Spam Classifier
+End-to-end ML pipeline with text preprocessing and classification (Naive Bayes, SVM) – deployed as a live web app.
+🔗 GitHub | 🔴 Live App
 
-Text classification model deployed as a live application using Streamlit.
+🛒 Sales Prediction Model
+Regression model using feature engineering and XGBoost to forecast retail sales – deployed on Streamlit.
+🔗 GitHub | 🔴 Live App
 
-💬 Sentiment Analysis (Deep Learning)
+💬 Sentiment Analysis
+LSTM-based deep learning model for real-time sentiment classification (positive/negative/neutral) of user text.
+🔗 GitHub | 🔴 Live App
 
-RNN-based sentiment classification model predicting Positive, Negative, and Neutral sentiment.
+📊 Lead Team Dashboard
+Interactive dashboard built with Streamlit and Plotly to visualize key sales metrics and track lead performance.
+🔴 Live App
 
-🐶🐱 Image Classification (Transfer Learning – VGG16)
-
-CNN model leveraging transfer learning for binary image classification.
-
-📊 Sales Prediction Model
-
-Regression-based ML system for retail sales forecasting with feature engineering and model optimization.
+🐶🐱 Image Classifier (Dog vs. Cat)
+CNN with transfer learning (VGG16) achieving 95% accuracy – fine-tuned on custom dataset.
+🔗 GitHub
 
 👥 Customer Segmentation
-
-Clustering model for behavior-based customer grouping to support targeted marketing strategies.
+K-Means clustering on purchase history data to identify high-value segments for targeted marketing.
+🔗 GitHub
 
 🔄 Customer Churn Prediction
+Classification model (Random Forest, XGBoost) to predict churn probability and enable proactive retention strategies.
+🔗 GitHub
 
-Classification model identifying high-risk churn customers for proactive retention.
+📈 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=mukit-ds&show_icons=true&theme=radical
 
-🎓 Education
+🌐 Portfolio & Certifications
+Portfolio Website: Innovative Insights by Mukit
 
-M.Sc. in Data Science & Analytics
-East West University
+Certifications:
 
-B.Sc. in Physics
-University of Chittagong
+British Airways Data Analysis Simulation (Forage)
 
-🌍 What I’m Looking For
+[Deep Learning Specialization (in progress)]
 
-Junior / Applied AI Engineer roles
+[AWS Certified Cloud Practitioner (in progress)]
 
-Generative AI / LLM-focused positions
+📫 Let's Connect
+I'm actively looking for opportunities with innovative startups in the US. If you're working on cutting-edge AI and need a passionate engineer, let's talk!
 
-Early-stage startup opportunities
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
-Remote-first AI teams
-
-I thrive in environments where I can build fast, iterate quickly, and deliver intelligent systems into production.
-
-📫 Let’s Connect
-
-LinkedIn
-
-Email: ab.mukit.ds@gmail.com
-
-Portfolio
-
-GitHub
+⭐ Feel free to explore my repositories and star any projects that interest you!
+I'm always open to discussing new ideas, collaborations, or opportunities.
