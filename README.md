@@ -1,7 +1,7 @@
 # Abdul Mukit
 **AI/ML Engineer | Generative AI Specialist | Data-Driven Problem Solver**
 
-📍 Remote-First | 🎯 Open to US-based opportunities
+📍 Remote-First | 🎯 Open to Startup opportunities
 
 ---
 
@@ -200,17 +200,17 @@ Real-time analytics platform delivering actionable KPI insights with anomaly det
 
 ## 🔗 Portfolio & Presence
 
-**Portfolio:** [Innovative Insights by Mukit](your-portfolio-url)  
-**GitHub:** [Abdul-Mukit](github-profile-url)  
-**LinkedIn:** [Abdul Mukit](linkedin-url)
+**Portfolio:** [Innovative Insights by Mukit](https://innovative-insights-by-mukit.my.canva.site/ds)
+**GitHub:** [Abdul-Mukit](https://github.com/mukit-ds) 
+**LinkedIn:** [Abdul Mukit](https://www.linkedin.com/in/abdulmukitds/)
 
 ---
 
 ## 📮 Get in Touch
 
-**Email:** [your-email@example.com]  
-**LinkedIn:** [Connect with me](linkedin-url)  
-**GitHub:** [Explore my work](github-url)
+**Email:** [Ab.mukit.ds@gmail.com]  
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/abdulmukitds/) 
+**GitHub:** [Explore my work](https://github.com/mukit-ds)
 
 💡 *Open to collaborations, contract roles, full-time positions, and research partnerships with forward-thinking teams.*
 
