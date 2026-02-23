@@ -1,103 +1,129 @@
-👋 Hi, I'm Abdul Mukit
-AI/ML Engineer | Generative AI | Data Scientist
-M.Sc. in Data Science & Analytics | B.Sc. in Physics
+👋 Hello, I'm Abdul Mukit
 
-I'm an AI Engineer with a unique blend of physics-driven problem solving and advanced data science expertise. I specialize in building scalable machine learning systems, deep learning models, and generative AI applications that solve real-world problems. Currently, I'm focused on developing innovative solutions in the Generative AI space and contributing to the future of intelligent automation.
+🎓 AI Engineer | LLM & RAG Specialist | Applied Machine Learning Developer
+
+Welcome!
+I am an AI Engineer with a background in Physics and a Master’s in Data Science & Analytics, specializing in building production-ready AI systems. I design and deploy scalable Machine Learning and Generative AI solutions — from predictive models to intelligent RAG-based systems and AI-driven automation tools.
+
+With hands-on experience in real-world AI deployments across international remote teams, I focus on transforming complex data challenges into practical, business-impact solutions. Currently, I am deeply exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI system architecture to build intelligent, scalable AI applications.
 
 🔍 About Me
-🎓 Education: M.Sc. in Data Science & Analytics | B.Sc. in Physics
 
-💡 Core Competencies: Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, RAG Systems
+📚 Academic Background: B.Sc. in Physics | M.Sc. in Data Science & Analytics
 
-🛠️ Tech Stack:
+🧠 Core Focus Areas: Generative AI, LLMs, RAG Systems, Machine Learning, Deep Learning, Computer Vision
+
+🛠️ Technical Skills:
 
 Languages: Python, SQL, R
 
-Libraries/Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, LangChain, LlamaIndex, Hugging Face, Pandas, NumPy
+Frameworks & Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, LangChain, Streamlit, Flask
 
-Tools & Platforms: Git, Docker, AWS (S3, EC2), Streamlit, Flask, FastAPI
+Tools & Platforms: Git, Docker, AWS, REST APIs
 
-🌱 Currently Exploring: Advanced RAG architectures, multimodal AI, and fine-tuning LLMs for domain-specific tasks
+🌱 Currently Building: Intelligent RAG systems, AI Telephony, Real-time Translation Systems
 
-🤝 Open to: Full-time roles, research collaborations, and consulting opportunities – especially with US-based startups pushing the boundaries of AI
+🤝 Open To: Remote AI roles, startup collaborations, applied AI projects
 
-💼 Professional Experience
-AI Engineer
-Aditya Enterprise (Remote – India) | July 2024 – Present
+💼 Experience
 
-Designing and deploying a smart Retrieval-Augmented Generation (RAG) system that continuously improves using user feedback and domain-specific data.
+AI Engineer (Remote – India)
+Aditya Enterprise · Since 07/25
 
-Building a bidirectional AI-powered telephony system integrating real-time speech recognition, NLP, and text-to-speech for automated customer interactions.
+Developed a scalable RAG-based system that continuously improves using user interaction data.
 
-AI Engineer
-KodeEnd IT Solutions AB (Remote – Malmö, Sweden) | June 2024 – June 2025
+Building a bidirectional AI telephony system enabling real-time intelligent communication.
 
-Developed machine learning models for sports outcome prediction and object detection, achieving high accuracy on proprietary datasets.
+<br>
 
-Optimized model inference pipelines, reducing latency by 30% through Docker containerization and model quantization.
+AI Engineer (Remote – Malmö, Sweden)
+KodeEnd IT Solutions AB · 06/24 – 06/25
+
+Designed and deployed machine learning models for sports outcome prediction.
+
+Built computer vision models for object detection using deep learning techniques.
+
+<br>
 
 Data Analysis Simulation – British Airways
-Forage | 2024
 
-Completed an end-to-end data analysis simulation, uncovering customer behavior trends and delivering actionable insights to improve service optimization.
+Conducted end-to-end data analysis to support strategic decision-making.
 
-Applied Python, Pandas, and data visualization tools (Plotly, Seaborn) to present findings to stakeholders.
+Identified customer behavior trends to optimize operational performance.
 
-🔗 Certificate | Verification Code: APWeX3xHmM5ecLDzA
+Utilized Python, Pandas, and advanced visualization tools to generate actionable insights.
 
-🚀 Featured Projects
+Certificate Link: Forage Certificate
+
+Verification Code: APWeX3xHmM5ecLDzA
+
+🚀 Projects
 🎬 Movie Recommendation System
-Content-based filtering using NLP (TF-IDF, cosine similarity) to suggest movies similar to user input.
-🔗 GitHub | ▶️ Demo Video
+
+An NLP-powered recommendation engine that suggests movies using content similarity and vector-based techniques.
+
+🔗 GitHub Repository
+
+▶️ Video Demonstration
 
 📧 Email Spam Classifier
-End-to-end ML pipeline with text preprocessing and classification (Naive Bayes, SVM) – deployed as a live web app.
-🔗 GitHub | 🔴 Live App
+
+A machine learning-based classification system that detects spam emails using advanced text preprocessing and supervised learning algorithms.
+
+🔗 GitHub Repository
+
+🔴 Live Application
 
 🛒 Sales Prediction Model
-Regression model using feature engineering and XGBoost to forecast retail sales – deployed on Streamlit.
-🔗 GitHub | 🔴 Live App
+
+A regression-based forecasting model leveraging feature engineering and machine learning to predict retail sales performance.
+
+🔗 GitHub Repository
+
+🔴 Live Application
 
 💬 Sentiment Analysis
-LSTM-based deep learning model for real-time sentiment classification (positive/negative/neutral) of user text.
-🔗 GitHub | 🔴 Live App
 
-📊 Lead Team Dashboard
-Interactive dashboard built with Streamlit and Plotly to visualize key sales metrics and track lead performance.
-🔴 Live App
+A deep learning-powered NLP application that classifies user text into positive, negative, or neutral sentiment categories.
 
-🐶🐱 Image Classifier (Dog vs. Cat)
-CNN with transfer learning (VGG16) achieving 95% accuracy – fine-tuned on custom dataset.
-🔗 GitHub
+🔗 GitHub Repository
+
+🔴 Live Application
+
+📊 Dashboard for Lead Team
+
+An interactive analytics dashboard for tracking performance metrics and enabling data-driven decision-making.
+
+🔴 Live Application
+
+🐶🐱 Image Classifier
+
+A CNN-based image classification system built using transfer learning (VGG16) to distinguish between cats and dogs.
+
+🔗 GitHub Repository
 
 👥 Customer Segmentation
-K-Means clustering on purchase history data to identify high-value segments for targeted marketing.
-🔗 GitHub
+
+A clustering-based model that segments customers based on purchasing behavior for targeted marketing strategies.
+
+🔗 GitHub Repository
 
 🔄 Customer Churn Prediction
-Classification model (Random Forest, XGBoost) to predict churn probability and enable proactive retention strategies.
-🔗 GitHub
 
-📈 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=mukit-ds&show_icons=true&theme=radical
+A predictive classification model designed to identify customers at risk of churn, enabling proactive retention strategies.
 
-🌐 Portfolio & Certifications
-Portfolio Website: Innovative Insights by Mukit
+🔗 GitHub Repository
 
-Certifications:
+🌐 Portfolio
 
-British Airways Data Analysis Simulation (Forage)
+For a comprehensive overview of my AI systems, deployments, and professional journey:
 
-[Deep Learning Specialization (in progress)]
+🔗 Innovative Insights by Mukit
 
-[AWS Certified Cloud Practitioner (in progress)]
+📫 Connect with Me
 
-📫 Let's Connect
-I'm actively looking for opportunities with innovative startups in the US. If you're working on cutting-edge AI and need a passionate engineer, let's talk!
+LinkedIn
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+Email
 
-⭐ Feel free to explore my repositories and star any projects that interest you!
-I'm always open to discussing new ideas, collaborations, or opportunities.
+WhatsApp
