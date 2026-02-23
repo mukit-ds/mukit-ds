@@ -1,114 +1,131 @@
-# 👋 Hello, I'm Abdul Mukit
+👋 Abdul Mukit
+AI Engineer | Generative AI & LLM Specialist | Building Production-Ready Intelligent Systems
+🚀 Professional Summary
 
-🎓 **AI Engineer | Machine Learning Enthusiast | Gen AI Explorer**
+AI Engineer with 1.5+ years of experience designing and deploying real-world AI systems across international remote teams (Sweden, UAE, India). Specialized in Generative AI, RAG architectures, NLP, and intelligent automation systems.
 
-**Welcome!**
-I am a AI/ML Engineer with a Bachelor's degree in Physics and Master's in Data Science and Analytics. With a strong foundation in scientific problem-solving and data analysis, I am passionate about applying data-driven solutions to complex, real-world challenges. My expertise spans Machine Learning, Deep Learning, and Generative AI. At present, I am actively exploring Generative AI to develop innovative solutions and contribute to the rapidly evolving field of AI-driven creativity and automation.
+With a foundation in Physics and a Master’s in Data Science & Analytics, I combine scientific problem-solving with modern AI engineering to build scalable, production-ready solutions — from smart RAG pipelines and AI telephony systems to predictive ML models and cloud-deployed applications.
 
+I focus on one thing: building AI systems that actually ship and create business value.
 
+🧠 Core Expertise
 
----
+AI & Machine Learning
 
-## 🔍 About Me
+Generative AI & LLM Applications
 
-- 📚 **Academic Background**: B.Sc. in Physics; M.Sc. in Data Science & Analytics
-- 🧠 **Research Interests**: AI, Machine Learning, Deep Learning, Computer Vision, Generative AI
-- 🛠️ **Technical Skills**:
-  - **Languages**: Python, SQL, R
-  - **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Lanchain, Streamlit, Flask
-  - **Tools**: Git, AWS, Docker
-- 🌱 **Currently Exploring**: Generative AI models and applications
-- 🤝 **Open To**: Collaborations, internships, and research opportunities
+Retrieval-Augmented Generation (RAG)
 
----
+NLP & Sentiment Analysis
 
-## 💼 Experience
+Deep Learning (CNN, RNN)
 
-**AI Engineer (Remote- India)**  
-Aditya Enterprise  . Since 07/25
-- Developer a smart rag based system which can be gradually efferctive by using user's data.
-- Making Bidirectional AI Telephony System.
-  
+Predictive Modeling & Feature Engineering
 
-<br>
+Engineering & Deployment
 
-**AI Engineer (Remote-Malmö, Sweden)**  
-KodeEnd IT Solutions AB · 06/24-06/25 
-- Developed machine learning models for sports outcome prediction
-and object detection tasks.
+Python, SQL, R
 
-  
-<br>
+TensorFlow, Scikit-learn, Keras, LangChain
 
-**Data Analysis Simulation - British Airways**  
-- Conducted end-to-end data analysis simulations for strategic decision-making  
-- Led the *Data Analysis Simulation - British Airways* project to identify customer behavior trends and improve service optimization  
-- Applied Python, Pandas, and data visualization tools (e.g., Plotly, Seaborn) to deliver actionable insights  
+FastAPI, Streamlit, Flask
 
-**Certificate Link:** [Forage Certificate](https://www.linkedin.com/in/abdulmukitds/overlay/1726812921137/single-media-viewer/?profileId=ACoAADb9SZ8BcHG_Qgnl4Xp5oUJqk4nNqh_u3Ww)
+AWS, Docker, Git
 
-**Verification Code:** APWeX3xHmM5ecLDzA
+REST APIs & Cloud Deployment
 
----
+💼 Professional Experience
+AI Engineer (Remote – India)
 
+Aditya Enterprise | 07/2025 – Present
 
-## 🚀 Projects
+Developed a scalable RAG-based intelligent system that continuously improves using user interaction data.
 
-### 🎬 Movie Recommendation System
-An interactive application that suggests movies based on content similarity using NLP techniques.
-- [🔗 GitHub Repository](https://github.com/mukit-ds/MovieRecommendedSystem)
-- [▶️ Video Demonstration](https://www.linkedin.com/posts/abdulmukitds_machinelearning-datascience-recommendationsystem-activity-7214523660957622272-NpJA/?utm_source=share&utm_medium=member_desktop)
-### 📧 Email Spam Classifier
-A machine learning model that classifies emails as spam or not spam using text processing and classification techniques.
-- [🔗 GitHub Repository](https://github.com/mukit-ds/EmailSpamClassifier)
-- [🔴 Live Application](https://emailspamclassifier-fx2ax7w2we4gb7qm74iwkb.streamlit.app/)
+Building a bidirectional AI telephony system enabling real-time conversational automation.
 
-### 🛒 Sales Prediction Model
-A regression-based model that predicts future sales for retail items using feature engineering and machine learning algorithms.
-- [🔗 GitHub Repository](https://github.com/mukit-ds/SalesPrediction)
-- [🔴 Live Application](https://salesprediction-e6mhgr8mrh64v3g6kbx8ki.streamlit.app/)
+Designed AI-driven automation solutions to enhance operational efficiency.
 
-### 💬 Sentiment Analysis
-A deep learning-based application that analyzes the sentiment of user text inputs, identifying positive, negative, or neutral tones.
-- [🔗 GitHub Repository](https://github.com/mukit-ds/SentimentAnalysis)
-- [🔴 Live Application](https://sentimentanalysis-6ne7g5gzk8cxvkb5rduv2u.streamlit.app/)
+AI/ML Engineer (Remote – Malmö, Sweden)
 
+KodeEnd IT Solutions AB | 06/2024 – 06/2025
 
-### 📊 Dashboard for Lead Team
-An interactive dashboard designed to visualize key metrics and performance indicators for lead tracking and decision-making.
-- [🔴 Live Application](https://dashboard-rgscul3qstrwewdpyufmpm.streamlit.app/)
+Built machine learning models for sports outcome prediction using structured and historical datasets.
 
-### 🐶🐱 Image Classifier
-A convolutional neural network (CNN) model that classifies images as either dog or cat using transfer learning with VGG16.
-- [🔗 GitHub Repository](https://github.com/mukit-ds/DogVsCatClassifier)
-### 👥 Customer Segmentation
-A clustering-based model that segments customers into groups based on purchasing behavior to enable targeted marketing.
-- [🔗 GitHub Repository](https://github.com/mukit-ds/CustomerSegmentation)
+Developed object detection solutions using deep learning techniques.
 
-### 🔄 Customer Churn Prediction
-A classification model that predicts whether a customer is likely to churn, helping businesses take proactive retention measures.
-- [🔗 GitHub Repository](https://github.com/mukit-ds/CustomerCurnPrediction)
+Contributed to full ML lifecycle: preprocessing, modeling, evaluation, and deployment.
 
+Data Analysis Simulation – British Airways (Forage)
 
----
+Conducted end-to-end customer data analysis to identify behavioral patterns.
 
-## 🌐 Portfolio
+Delivered actionable insights to improve operational decision-making.
 
-For a comprehensive view of my projects and experiences, please visit my portfolio:
-- [🔗 Innovative Insights by Mukit](https://innovative-insights-by-mukit.my.canva.site/ds)
+Applied Python (Pandas), data visualization, and analytical modeling techniques.
 
----
+🚀 Selected Projects
+🔹 Smart RAG Systems & AI Assistants
 
-📫 Connect with Me
+Designed intelligent retrieval systems and conversational AI agents capable of handling dynamic user queries with contextual accuracy.
 
-[LinkedIn](https://www.linkedin.com/in/abdul-mukit-1bbb72218)
+🎬 Movie Recommendation System
 
-[Email](https://ab.mukit.ds@gmail.com)
+Content-based NLP recommendation engine with interactive UI.
 
-[WhatsApp](https://wa.me/8801746393598)
+GitHub Repository
 
+Video Demonstration
 
+📧 Email Spam Classifier
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration opportunities!
+Text classification model deployed as a live application using Streamlit.
 
----
+💬 Sentiment Analysis (Deep Learning)
+
+RNN-based sentiment classification model predicting Positive, Negative, and Neutral sentiment.
+
+🐶🐱 Image Classification (Transfer Learning – VGG16)
+
+CNN model leveraging transfer learning for binary image classification.
+
+📊 Sales Prediction Model
+
+Regression-based ML system for retail sales forecasting with feature engineering and model optimization.
+
+👥 Customer Segmentation
+
+Clustering model for behavior-based customer grouping to support targeted marketing strategies.
+
+🔄 Customer Churn Prediction
+
+Classification model identifying high-risk churn customers for proactive retention.
+
+🎓 Education
+
+M.Sc. in Data Science & Analytics
+East West University
+
+B.Sc. in Physics
+University of Chittagong
+
+🌍 What I’m Looking For
+
+Junior / Applied AI Engineer roles
+
+Generative AI / LLM-focused positions
+
+Early-stage startup opportunities
+
+Remote-first AI teams
+
+I thrive in environments where I can build fast, iterate quickly, and deliver intelligent systems into production.
+
+📫 Let’s Connect
+
+LinkedIn
+
+Email: ab.mukit.ds@gmail.com
+
+Portfolio
+
+GitHub
