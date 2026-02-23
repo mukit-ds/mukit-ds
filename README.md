@@ -210,7 +210,7 @@ Real-time analytics platform delivering actionable KPI insights with anomaly det
 
 ## 📮 Get in Touch
 
-**Email:** [Ab.mukit.ds@gmail.com]  
+**Email:** Ab.mukit.ds@gmail.com
 
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abdulmukitds/) 
 
