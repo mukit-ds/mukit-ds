@@ -19,6 +19,11 @@ Experienced AI/ML Engineer (1.5+ years) with B.Sc. Physics and M.Sc. Data Scienc
 - Engineered bidirectional AI telephony system, enabling voice-based interactions at scale
 - Technologies: LangChain, LLMs, Python
 
+
+### **AI Engineer** - Marrfa Discovery Real Estate LLC (Remote, Project based, UAE)
+*Dec 2025 - Jan 26*
+- Developed an RAG base AI Chatbot to handle user's query & filtered properties based on users criteria.
+
 ### **AI Engineer** — KodeEnd IT Solutions AB (Remote, Malmö, Sweden)
 *Jun 2024 – Jun 2025*
 - Developed machine learning models for sports outcome prediction achieving [X% accuracy] on production data
