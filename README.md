@@ -171,6 +171,19 @@ Investigating the application of classical supervised machine learning algorithm
 
 <br/>
 
+
+<br/>
+
+### Computer Vision
+
+| # | Project | Description | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 13 | **Industrial Defect Detection — YOLOv8** | Real-time object detection system for automated quality control in industrial pipelines. Localises defects via bounding boxes — *mAP@0.5: 92.6% · Precision: 90.3% · Recall: 87.9% · Inference: 8.2ms/img* | `YOLOv8` `PyTorch` `OpenCV` `Transfer Learning` | [GitHub ↗](https://github.com/mukit-ds/DefectDetectionProject) |
+| 14 | **Image Classification — VGG16 Transfer Learning** | Fine-tuned CNN for scalable image recognition across e-commerce, healthcare, and security domains | `TensorFlow` `Keras` `VGG16` `Transfer Learning` | [GitHub ↗](https://github.com/mukit-ds/DogVsCatClassifier) |
+
+<br/>
+
+
 ### Machine Learning & NLP
 
 | # | Project | Description | Stack | Links |
@@ -191,16 +204,7 @@ Investigating the application of classical supervised machine learning algorithm
 | 11 | **Sales Forecasting Model** | Time-series demand planning model for inventory and revenue optimisation | `ARIMA` `XGBoost` `Streamlit` | [GitHub ↗](https://github.com/mukit-ds/SalesPrediction) · [Live ↗](https://salesprediction-e6mhgr8mrh64v3g6kbx8ki.streamlit.app/) |
 | 12 | **Lead Performance Dashboard** | Real-time KPI analytics platform with anomaly detection and sub-minute latency | `Plotly` `Streamlit` `SQL` | [Demo ↗](https://www.youtube.com/watch?v=uXh6A8ogrtY) |
 
-<br/>
 
-### Computer Vision
-
-| # | Project | Description | Stack | Links |
-|---|---------|-------------|-------|-------|
-| 13 | **Industrial Defect Detection — YOLOv8** | Real-time object detection system for automated quality control in industrial pipelines. Localises defects via bounding boxes — *mAP@0.5: 92.6% · Precision: 90.3% · Recall: 87.9% · Inference: 8.2ms/img* | `YOLOv8` `PyTorch` `OpenCV` `Transfer Learning` | [GitHub ↗](https://github.com/mukit-ds/DefectDetectionProject) |
-| 14 | **Image Classification — VGG16 Transfer Learning** | Fine-tuned CNN for scalable image recognition across e-commerce, healthcare, and security domains | `TensorFlow` `Keras` `VGG16` `Transfer Learning` | [GitHub ↗](https://github.com/mukit-ds/DogVsCatClassifier) |
-
-<br/>
 
 ---
 
