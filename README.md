@@ -31,7 +31,7 @@ Interdisciplinary researcher with a BSc in Physics and an MSc in Data Science an
 ```python
 {
   "role"        : "Researcher & AI/ML Engineer",
-  "location"    : "Chattogram, Bangladesh  —  Remote-First, Open Globally",
+  "location"    : "Chattogram, Bangladesh  —  Open Globally",
   "education"   : ["M.Sc. Data Science & Analytics (ongoing)", "B.Sc. Physics"],
   "research"    : "Predictive Modelling of Football Match Outcomes (East West University)",
   "interests"   : ["ML/NLP", "Generative AI & LLMs", "Sports Analytics", "Computer Vision", "Interpretable AI"],
@@ -171,6 +171,15 @@ Investigating the application of classical supervised machine learning algorithm
 
 <br/>
 
+### Computer Vision
+
+| # | Project | Description | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 13 | **Industrial Defect Detection — YOLOv8** | Real-time object detection system for automated quality control in industrial pipelines. Localises defects via bounding boxes — *mAP@0.5: 92.6% · Precision: 90.3% · Recall: 87.9% · Inference: 8.2ms/img* | `YOLOv8` `PyTorch` `OpenCV` `Transfer Learning` | [GitHub ↗](https://github.com/mukit-ds/DefectDetectionProject) |
+| 14 | **Image Classification — VGG16 Transfer Learning** | Fine-tuned CNN for scalable image recognition across e-commerce, healthcare, and security domains | `TensorFlow` `Keras` `VGG16` `Transfer Learning` | [GitHub ↗](https://github.com/mukit-ds/DogVsCatClassifier) |
+
+<br/>
+
 ### Machine Learning & NLP
 
 | # | Project | Description | Stack | Links |
@@ -193,14 +202,7 @@ Investigating the application of classical supervised machine learning algorithm
 
 <br/>
 
-### Computer Vision
 
-| # | Project | Description | Stack | Links |
-|---|---------|-------------|-------|-------|
-| 13 | **Industrial Defect Detection — YOLOv8** | Real-time object detection system for automated quality control in industrial pipelines. Localises defects via bounding boxes — *mAP@0.5: 92.6% · Precision: 90.3% · Recall: 87.9% · Inference: 8.2ms/img* | `YOLOv8` `PyTorch` `OpenCV` `Transfer Learning` | [GitHub ↗](https://github.com/mukit-ds/DefectDetectionProject) |
-| 14 | **Image Classification — VGG16 Transfer Learning** | Fine-tuned CNN for scalable image recognition across e-commerce, healthcare, and security domains | `TensorFlow` `Keras` `VGG16` `Transfer Learning` | [GitHub ↗](https://github.com/mukit-ds/DogVsCatClassifier) |
-
-<br/>
 
 ---
 
