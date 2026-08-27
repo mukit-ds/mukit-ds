@@ -26,53 +26,18 @@
 
 ## &nbsp;👤&nbsp; Profile Summary
 
-Interdisciplinary researcher with a BSc in Physics and an MSc in Data Science and Analytics (ongoing), combining rigorous mathematical foundations with applied machine learning expertise. Experienced AI/ML Engineer with hands-on industry experience in developing and deploying production-grade predictive models. Currently conducting research on predictive modeling of football match outcomes using classical machine learning techniques. Passionate about leveraging data-driven approaches to solve complex real-world problems, with particular interest in sports analytics, predictive modeling, and intelligent decision-making systems. Seeking a PhD/MS opportunity to advance research at the intersection of machine learning, natural language processing, generative AI, and large language models, with a focus on building intelligent, scalable, and interpretable AI systems.
+AI Engineer with close to 2 years of experience building and deploying production-oriented AI/ML and Generative AI applications. Hands-on experience developing LLM-powered applications, RAG pipelines, AI assistants, and voice systems using Python, OpenAI APIs, LangChain, FAISS, and Whisper. Experienced across the full AI application lifecycle — from data and retrieval pipelines to API integration, deployment, testing, and production maintenance. Currently building ClinGPT, a clinical data analysis and physician decision-support system, at Tirono Technology.
 
 ```python
 {
-  "role"        : "Researcher & AI/ML Engineer",
+  "role"        : "AI Engineer",
   "location"    : "Chattogram, Bangladesh  —  Open Globally",
+  "current"     : "AI/ML Engineer @ Tirono Technology — building ClinGPT",
   "education"   : ["M.Sc. Data Science & Analytics (ongoing)", "B.Sc. Physics"],
-  "research"    : "Predictive Modelling of Football Match Outcomes (East West University)",
-  "interests"   : ["ML/NLP", "Generative AI & LLMs", "Sports Analytics", "Computer Vision", "Interpretable AI"],
-  "seeking"     : "PhD / MS Scholarship in Data Science, AI, Machine Learning, or related fields"
+  "stack"       : ["LLMs & RAG", "LangChain", "FAISS", "OpenAI API", "Whisper (ASR)"],
+  "seeking"     : "AI/LLM Engineer roles — remote-first, open to visa sponsorship"
 }
 ```
-
-<br/>
-
----
-
-## &nbsp;🔬&nbsp; Research Experience
-
-<table width="100%">
-<tr>
-<td width="20%" valign="top">
-  <sub><b>Sep 2023 — Present</b></sub><br/>
-  <sup>East West University<br/>Dhaka, Bangladesh</sup><br/><br/>
-  <img src="https://img.shields.io/badge/Status-Ongoing-2ea44f?style=flat-square"/>
-</td>
-<td valign="top">
-
-**Predictive Modeling of League Football Match Outcomes Using Classical Machine Learning**
-&nbsp;`MSc Research Project`
-
-Investigating the application of classical supervised machine learning algorithms — Logistic Regression, Random Forest, SVM, Gradient Boosting, k-NN — to three-class football outcome prediction (win / draw / loss) in professional league competitions. The study bridges statistical physics methodology (stochastic modelling, probability distributions, measurement uncertainty) with rigorous ML pipeline design.
-
-**Methodology:** Structured data collection from publicly available sports databases · SMOTE-based class imbalance treatment · temporal train/test splitting to prevent data leakage · domain-informed feature engineering (rolling window statistics, Elo-style rating systems, form indices) · stratified k-fold cross-validation · SHAP-based interpretability analysis.
-
-**Preliminary findings:** Ensemble methods (Random Forest, Gradient Boosting) consistently outperform single classifiers; home advantage and recent team form are the most statistically significant predictors. Analysis is ongoing toward final model selection and dissemination.
-
-`Scikit-learn` &nbsp; `Python` &nbsp; `SHAP` &nbsp; `Feature Engineering` &nbsp; `Statistical Modelling` &nbsp; `Sports Analytics`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-> **⚛️ Interdisciplinary Advantage — Physics × Data Science**
-> A BSc in Physics instils more than mathematical fluency: it develops a rigorous scientific methodology — formulating falsifiable hypotheses, designing controlled experiments, quantifying measurement uncertainty, and reasoning probabilistically. These foundations translate directly into principled ML research: understanding model assumptions at a theoretical level, designing statistically sound evaluation protocols, and building systems that are not only accurate but trustworthy and interpretable.
 
 <br/>
 
@@ -83,19 +48,20 @@ Investigating the application of classical supervised machine learning algorithm
 <table width="100%">
 <tr>
 <td width="20%" valign="top">
-  <sub><b>Aug 2025 — Present</b></sub><br/>
-  <sup>Remote · India</sup><br/><br/>
+  <sub><b>2026 — Present</b></sub><br/>
+  <sup>Hybrid · Chattogram</sup><br/><br/>
   <img src="https://img.shields.io/badge/🟢-Current-2ea44f?style=flat-square"/>
 </td>
 <td valign="top">
 
-**AI/ML Engineer — Aditya Enterprise**
+**AI/ML Engineer — Tirono Technology**
+<!-- TODO: confirm exact start month -->
 
-- Architected an intelligent **RAG system** with continuous self-improvement through user interaction data, achieving 20% reduction in retrieval latency and 95%+ answer relevance rate
-- Engineered a **bidirectional AI telephony system** enabling natural voice-based human-machine interactions at scale
-- Developed and deployed machine learning models with rigorous preprocessing, feature engineering, hyperparameter tuning, and validation protocols
+- Building **ClinGPT**, a clinical data analysis and physician decision-support system, from the ground up
+- Architected a **validation layer and rule engine** for vital-parameter analysis, reaching a 46/46 test pass rate on the core pipeline
+- Actively tuning threshold logic for vital-parameter interpretation to improve the reliability of clinical decision support
 
-`LangChain` &nbsp; `LLMs` &nbsp; `Python` &nbsp; `RAG` &nbsp; `TensorFlow` &nbsp; `Scikit-learn`
+`Python` &nbsp; `Rule Engine` &nbsp; `Data Validation` &nbsp; `Clinical AI`
 
 </td>
 </tr>
@@ -119,6 +85,25 @@ Investigating the application of classical supervised machine learning algorithm
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td width="20%" valign="top">
+  <sub><b>Aug 2025 — 2026</b></sub><br/>
+  <sup>Remote · India</sup>
+</td>
+<td valign="top">
+
+**AI/ML Engineer — Aditya Enterprise**
+<!-- TODO: confirm exact end month -->
+
+- Architected an intelligent **RAG system** with embedding-based retrieval and continuous self-improvement through user interaction data, achieving 20% reduction in retrieval latency and 95%+ answer relevance rate
+- Engineered a **bidirectional AI telephony system** enabling natural voice-based human-machine interactions at scale
+- Developed and deployed machine learning models with rigorous preprocessing, feature engineering, hyperparameter tuning, and validation protocols
+
+`LangChain` &nbsp; `LLMs` &nbsp; `Python` &nbsp; `RAG` &nbsp; `Embeddings` &nbsp; `TensorFlow`
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="20%" valign="top">
   <sub><b>Aug 2024 — Jul 2025</b></sub><br/>
   <sup>Remote · Sweden</sup>
 </td>
@@ -135,23 +120,6 @@ Investigating the application of classical supervised machine learning algorithm
 
 </td>
 </tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="20%" valign="top">
-  <sub><b>Simulation Project</b></sub><br/>
-  <sup>Certificate</sup>
-</td>
-<td valign="top">
-
-**Data Analysis & Strategic Consulting — British Airways**
-
-- Led data-driven analysis to identify customer behaviour patterns and optimise service delivery
-- Delivered actionable, evidence-based strategic recommendations using advanced visualisation
-
-`Python` &nbsp; `Pandas` &nbsp; `Plotly` &nbsp; `Seaborn` &nbsp; · &nbsp; Credential: [`APWeX3xHmM5ecLDzA`](https://bit.ly/CertificateBritishAirways)
-
-</td>
-</tr>
 </table>
 
 <br/>
@@ -165,7 +133,7 @@ Investigating the application of classical supervised machine learning algorithm
 | # | Project | Description | Stack | Links |
 |---|---------|-------------|-------|-------|
 | 01 | **Bidirectional AI Telephony System** | Enterprise-grade voice AI enabling natural human-machine interaction at scale | `Python` `SpeechRecognition` `LLMs` | — |
-| 02 | **Smart RAG System** | Self-improving knowledge retrieval platform — *20% latency reduction · 95%+ relevance* | `LangChain` `Vector DB` `Prompt Engineering` | — |
+| 02 | **Smart RAG System** | Self-improving RAG assistant with embedding-based retrieval — *20% latency reduction · 95%+ relevance* | `LangChain` `RAG` `Embeddings` `Vector DB` `Prompt Engineering` | — |
 | 03 | **AI Voice Assistant for NextGen** *(In Development)* | Context-aware, multi-language voice AI for next-generation customer engagement | `LLMs` `STT/TTS` `FastAPI` `Python` | [Demo ↗](https://www.youtube.com/watch?v=d8l4VrHRM6w) |
 | 04 | **Zenvora AI Assistant** | Production-ready multi-domain conversational AI with real-time knowledge integration | `LLMs` `FastAPI` `WebSocket` `NLP` | [Demo ↗](https://www.youtube.com/watch?v=o9wT4_sQlrg) |
 
@@ -199,6 +167,7 @@ Investigating the application of classical supervised machine learning algorithm
 |---|---------|-------------|-------|-------|
 | 11 | **Sales Forecasting Model** | Time-series demand planning model for inventory and revenue optimisation | `ARIMA` `XGBoost` `Streamlit` | [GitHub ↗](https://github.com/mukit-ds/SalesPrediction) · [Live ↗](https://salesprediction-e6mhgr8mrh64v3g6kbx8ki.streamlit.app/) |
 | 12 | **Lead Performance Dashboard** | Real-time KPI analytics platform with anomaly detection and sub-minute latency | `Plotly` `Streamlit` `SQL` | [Demo ↗](https://www.youtube.com/watch?v=uXh6A8ogrtY) |
+| 13 | **Football Match Outcome Prediction** | Classical ML models (Random Forest, Gradient Boosting, SVM) predicting win/draw/loss outcomes, with SMOTE-based class balancing and SHAP-based feature attribution | `Scikit-learn` `SHAP` `Feature Engineering` | — |
 
 <br/>
 
@@ -212,13 +181,12 @@ Investigating the application of classical supervised machine learning algorithm
 
 | Domain | Technologies |
 |--------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **ML / Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
-| **Generative AI & NLP** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white) `RAG Systems` `Prompt Engineering` `Vector Databases` `Transformers` |
+| **AI Engineering & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) `OpenAI API` `Prompt Engineering` `Whisper (ASR)` |
+| **RAG & Retrieval** | `RAG Pipelines` `Embeddings` `Vector Databases` `FAISS` `Semantic Search` |
+| **ML / Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white) `Transformers` `LSTM` `SHAP / Interpretable ML` `Feature Engineering` |
 | **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) `YOLOv8 / Ultralytics` `Transfer Learning (VGG16)` `Object Detection` |
-| **Research Methods** | `Experimental Design` `Statistical Inference` `Probability Theory` `Feature Engineering` `Cross-Validation` `SHAP / Interpretable ML` `Scientific Writing` |
-| **Data & Visualisation** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) `Seaborn` `Matplotlib` |
-| **Deployment & Cloud** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Backend & Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Data & Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
 
 </div>
 
@@ -253,8 +221,6 @@ Investigating the application of classical supervised machine learning algorithm
 | **M.Sc. Data Science & Analytics** | East West University, Dhaka | 2023 — Present | Machine Learning · Deep Learning · NLP · Statistical Modelling · Predictive Analytics |
 | **B.Sc. Physics** | University of Chittagong | 2017 — 2023 | Quantum Mechanics · Statistical Physics · Mathematical Methods · Experimental Design · Numerical Methods |
 
-> The combination of Physics and Data Science provides a rare research foundation — from the rigour of physical reasoning and probabilistic inference to the applied depth of modern machine learning.
-
 <br/>
 
 ---
@@ -273,23 +239,9 @@ Investigating the application of classical supervised machine learning algorithm
 
 ---
 
-## &nbsp;🔭&nbsp; Research Interests
-
-- Predictive modelling and uncertainty quantification in complex systems
-- Sports analytics and outcome prediction using interpretable ML
-- Natural language processing, large language models, and retrieval-augmented generation
-- Agentic AI architectures and multi-agent systems
-- Computer vision for industrial quality control and healthcare applications
-- Responsible AI: fairness, transparency, and ethical deployment practices
-- Production MLOps and scalable AI infrastructure design
-
-<br/>
-
----
-
 ## &nbsp;📬&nbsp; Contact & Collaboration
 
-Open to PhD and MS scholarship enquiries, academic research collaborations, and industry partnerships in the areas of Machine Learning, NLP, Generative AI, Data Science, and Computer Vision.
+Open to AI Engineer roles building LLM applications, RAG pipelines, and production AI systems — remote-first, open to visa sponsorship, and available for freelance/contract work in Generative AI, NLP, and applied ML.
 
 | Channel | |
 |---------|--|
@@ -305,7 +257,7 @@ Open to PhD and MS scholarship enquiries, academic research collaborations, and 
 
 <div align="center">
 
-<sub>Remote-First &nbsp;·&nbsp; Open to PhD / MS Scholarship &nbsp;·&nbsp; Research Collaborations Welcome &nbsp;·&nbsp; Last updated May 2026</sub>
+<sub>Remote-First &nbsp;·&nbsp; Open to AI Engineer Roles &nbsp;·&nbsp; Visa Sponsorship Welcome &nbsp;·&nbsp; Last updated Aug 2026</sub>
 
 <br/><br/>
 
