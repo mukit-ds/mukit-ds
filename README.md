@@ -32,7 +32,7 @@ AI Engineer with 2 years of experience building and deploying production-oriente
 {
   "role"        : "AI Engineer",
   "location"    : "Chattogram, Bangladesh  —  Open Globally",
-  "current"     : "AI/ML Engineer @ Tirono Technology — building ClinGPT",
+  "current"     : "AI/ML Engineer @ Tirono Technologies — building ClinGPT",
   "education"   : ["M.Sc. Data Science & Analytics (ongoing)", "B.Sc. Physics"],
   "stack"       : ["LLMs & RAG", "LangChain", "FAISS", "OpenAI API", "Whisper (ASR)"],
   "seeking"     : "AI/LLM Engineer roles — remote-first, open to visa sponsorship"
