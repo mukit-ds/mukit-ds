@@ -26,7 +26,7 @@
 
 ## &nbsp;👤&nbsp; Profile Summary
 
-AI Engineer with close to 2 years of experience building and deploying production-oriented AI/ML and Generative AI applications. Hands-on experience developing LLM-powered applications, RAG pipelines, AI assistants, and voice systems using Python, OpenAI APIs, LangChain, FAISS, and Whisper. Experienced across the full AI application lifecycle — from data and retrieval pipelines to API integration, deployment, testing, and production maintenance. Currently building ClinGPT, a clinical data analysis and physician decision-support system, at Tirono Technology.
+AI Engineer with 2 years of experience building and deploying production-oriented AI/ML and Generative AI applications. Hands-on experience developing LLM-powered applications, RAG pipelines, AI assistants, and voice systems using Python, OpenAI APIs, LangChain, FAISS, and Whisper. Experienced across the full AI application lifecycle — from data and retrieval pipelines to API integration, deployment, testing, and production maintenance. Currently building ClinGPT, a clinical data analysis and physician decision-support system, at Tirono Technology.
 
 ```python
 {
